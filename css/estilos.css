@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     font-family: Arial;
-    color: #333;
+    color: red;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #88f;
+    background: grey;
     color: white;
     font-weight: bold;
     margin: 0;
